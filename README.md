@@ -81,9 +81,9 @@
   <section id="courses">
     <h2>Our Courses</h2>
     <div class="grid">
-      <div class="card"><strong>BS in Information Technology</strong></div>
+      <div class="card"><strong>BS in Information Technology-Food Preparation</strong></div>
       <div class="card"><strong>BS in Fisheries</strong></div>
-      <div class="card"><strong>BS in Marine Biology</strong></div>
+      <div class="card"><strong>BS in Education Major in English, Filipino</strong></div>
       <div class="card"><strong>BS in Secondary Education</strong></div>
     </div>
   </section>
